@@ -1822,7 +1822,7 @@ section,
   border-bottom: 1px solid color-mix(in srgb, var(--accent-color), transparent 90%);
 }
 
-.contact .info-item+.info-item {
+.contact .info-item {
   margin-top: 40px;
 }
 
